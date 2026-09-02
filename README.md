@@ -44,7 +44,7 @@
 
 1) [Материалы прошлого года](https://github.com/Jhomanik/opt_course_fall_2025)
 
-2) [Пособие]()
+2) [Пособие](lecs/Lecture_and_Seminar_Notes_Optimization.pdf)
 
 | Неделя | Слайды семинаров | Слайды лекций | 
 |:------:|:----------|:----------:|
