@@ -48,4 +48,4 @@
 |1| Повторение по линейной алгебре [[Слайды](sems/sems_2026_1_linalg.pdf), [Конспект](sems/sems_2026_1_linalg_notes.pdf)]  | Основные понятия [[Конспект](lecs/pres_1.pdf)]  |
 |2| Матвек дифф [[Слайды](sems/sems_2026_2.pdf), [Конспект](sems/sems_2026_2_slides.pdf)]  |   |
 |3| Матвек дифф 2 [[Конспект 1](sems/sems_2026_3_matvec_diff_slides.pdf), [Конспект 2](sems/sems_2026_3_matvec_diff_2.pdf)]  |   |
-|4| Backprop [[Конспект](sems/sems_2026_3_backprop.pdf), [Ноутбук](sems/sems_2026_3_matvec_diff_2.pdf)]  |   |
+|4| Backprop [[Конспект](sems/sems_2026_3_backprop.pdf), [Ноутбук 1](sems/notebooks/sem4.ipynb), [Ноутбук 2](sems/notebooks/jax_tutor.ipynb)]  |   |
