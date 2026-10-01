@@ -49,4 +49,4 @@
 |2| Матвек дифф [[Слайды](sems/sems_2026_2.pdf), [Конспект](sems/sems_2026_2_slides.pdf)]  |   |
 |3| Матвек дифф 2 [[Конспект 1](sems/sems_2026_3_matvec_diff_slides.pdf), [Конспект 2](sems/sems_2026_3_matvec_diff_2.pdf)]  |   |
 |4| Backprop [[Слайды](sems/sems_2026_3_backprop.pdf), [Конспект](sems/sems_2026_3_backpropslides.pdf),  [Pytorch Ноутбук](sems/notebooks/sem4.ipynb), [Jax Ноутбук](sems/notebooks/jax_tutor.ipynb)]  |   |
-|5| Выпуклые множества [[Слайды](sems/sems_2026_4_covex_sets.pdf), [Конспект](sems/sems_2026_4_convex_slides.pdf)] |   |
+|5| Выпуклые множества [[Слайды](sems/sems_2026_4_convex_sets.pdf), [Конспект](sems/sems_2026_4_convex_slides.pdf)] |   |
