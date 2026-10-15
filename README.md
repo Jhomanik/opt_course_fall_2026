@@ -51,4 +51,4 @@
 |4| Backprop [[Слайды](sems/sems_2026_3_backprop.pdf), [Конспект](sems/sems_2026_3_backpropslides.pdf),  [Pytorch Ноутбук](sems/notebooks/sem4.ipynb), [Jax Ноутбук](sems/notebooks/jax_tutor.ipynb)]  |   
 |5| Выпуклые множества [[Слайды](sems/sems_2026_4_convex_sets.pdf), [Конспект](sems/sems_2026_4_convex_slides.pdf)] |   
 |6| Выпуклые функции [[Слайды](sems/sems_2026_6_convex_funcs.pdf), [Конспект](sems/sems_2026_6_convex_funcs_slides.pdf)] |   
-|7| Субградиент [[Слайды](sems/sems_2026_7_subdiff.pdf)] |   
+|7| Субградиент [[Слайды](sems/sems_2026_7_subdiff.pdf), [Конспект](sems/sems_2026_7_subdiff_slides.pdf)] |   
