@@ -52,3 +52,4 @@
 |5| Выпуклые множества [[Слайды](sems/sems_2026_4_convex_sets.pdf), [Конспект](sems/sems_2026_4_convex_slides.pdf)] |   
 |6| Выпуклые функции [[Слайды](sems/sems_2026_6_convex_funcs.pdf), [Конспект](sems/sems_2026_6_convex_funcsslides.pdf)] |   
 |7| Субградиент [[Слайды](sems/sems_2026_7_subdiff.pdf), [Конспект](sems/sems_2026_7_subdiff_slides.pdf)] |   
+|8| Сопряженные функции [[Слайды](sems/sems_2026_8_dual_funcs.pdf)] |
