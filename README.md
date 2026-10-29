@@ -53,3 +53,4 @@
 |6| Выпуклые функции [[Слайды](sems/sems_2026_6_convex_funcs.pdf), [Конспект](sems/sems_2026_6_convex_funcsslides.pdf)] |   
 |7| Субградиент [[Слайды](sems/sems_2026_7_subdiff.pdf), [Конспект](sems/sems_2026_7_subdiff_slides.pdf)] |   
 |8| Сопряженные функции [[Слайды](sems/sems_2026_8_dual_funcs.pdf), [Конспект](sems/sems_2026_8_dual_funcs_notes.pdf)] |
+|9| Двойственная задача [[Слайды](sems/sems_2026_9_dual_problem.pdf)] |
