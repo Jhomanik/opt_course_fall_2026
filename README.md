@@ -56,3 +56,4 @@
 |9| Двойственная задача [[Слайды](sems/sems_2026_9_dual_problem.pdf), [Конспект](sems/sems_2026_9_dual_problem_notes.pdf)] |
 |10| Условия ККТ [[Слайды](sems/sems_2026_10_KKT.pdf), [Конспект](sems/sems_2026_10_KKT_notes.pdf)] |
 |11| Стандартные задачи оптимизации [[Слайды](sems/sems_2026_11_standard_problems.pdf), [Конспект](sems/sems_2026_11_standard_problems_notes.pdf)] |
+|12| Конусы [[Слайды](sems/sems_2026_12_cones.pdf)] |
